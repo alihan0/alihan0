@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-I'm full stack developer at LAMP Stack.
+* 👂 My name is Alihan,
+* 👩 Pronouns: He/Him,
+* 🔭 I’m currently working on ERP Systems,
+* 🌱 I’m currently learning Mern Stack,
+* 🤝 I’m looking to collaborate on Notifirell,
+* 🤔 I’m looking for help with Unity,
+* 💬 Ask me about full stack development,
+* 📫 How to reach me: alihanozturk364@gmail.com,
+* ❤️ I love Code,
+* ⚡ Fun fact: Laravel,
 
 
 
