@@ -10,7 +10,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,sass,php,laravel,py,selenium,nodejs,nextjs,express,electron,react,redux,vite,mysql,linux,postman,aws,gcp,atom,vscode,wordpress,ps,ai,pr,ae,figma,docker,unity,blender,bots,codepen,stackoverflow)](https://linkedin.com/in/alihanozturk06)
 
-
+### Social:
+[![My Skills](https://skillicons.dev/icons?i=github,linkedin,instagram,twitter,discord)](https://linkedin.com/in/alihanozturk06)
 <!--
 **alihan0/alihan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
