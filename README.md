@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm full stack developer at LAMP Stack.
 
 
 
