@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihan0&show_icons=true&theme=transparent&hide=contribs,stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihan0&hide_progress=true)
 <!--
