@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihan0&show_icons=true&theme=transparent&hide=contribs&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihan0&show_icons=true&theme=transparent&hide=contribs,stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihan0)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alihan0)](https://github.com/anuraghazra/github-readme-stats)
 <!--
