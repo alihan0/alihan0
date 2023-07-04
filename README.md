@@ -10,5 +10,7 @@
 
 ### Social:
 [![My Skills](https://skillicons.dev/icons?i=github,linkedin,instagram,twitter,discord)](https://linkedin.com/in/alihanozturk06)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihan0&show_icons=true&theme=transparent&hide=contribs,stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihan0&hide_progress=true)
