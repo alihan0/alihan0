@@ -17,4 +17,4 @@
 
 ### Contact:
 
-![Static Badge](https://img.shields.io/badge/alihanozturk364%40gmail-blue?label=Email)(mailto:alihanozturk364@gmail.com)
+![Static Badge](https://img.shields.io/badge/alihanozturk364%40gmail-blue?label=Email)](mailto:alihanozturk364@gmail.com)
