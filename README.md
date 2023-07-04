@@ -13,7 +13,7 @@
 ### GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alihan0&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://linkedin.com/in/alihanozturk06)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihan0&show_icons=true&theme=transparent&hide=contribs,stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihan0&show_icons=true&theme=transparent&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihan0&hide_progress=true)
 
 
