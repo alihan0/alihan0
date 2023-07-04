@@ -14,3 +14,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihan0&show_icons=true&theme=transparent&hide=contribs,stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihan0&hide_progress=true)
+
+### Contact:
+
+![Static Badge](https://img.shields.io/badge/alihanozturk364%40gmail-blue?label=Email)
