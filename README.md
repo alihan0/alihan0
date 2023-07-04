@@ -4,6 +4,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihan0&show_icons=true&theme=transparent&hide=contribs,stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihan0&hide_progress=true)
+
+
+### Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
 <!--
 **alihan0/alihan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
