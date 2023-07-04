@@ -8,7 +8,7 @@
 
 ### Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,sass,php,laravel,py,selenium,nodejs,nextjs,express,electron,react,redux,vite,mysql,linux,postman,aws,gcp,atom,vscode,wordpress,ps,ai,pr,ae,figma,docker)](https://skillicons.dev,unity,blender,bots,codepen,stackoverflow)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,sass,php,laravel,py,selenium,nodejs,nextjs,express,electron,react,redux,vite,mysql,linux,postman,aws,gcp,atom,vscode,wordpress,ps,ai,pr,ae,figma,docker,unity,blender,bots,codepen,stackoverflow)](https://skillicons.dev)
 
 
 <!--
