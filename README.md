@@ -8,7 +8,7 @@
 
 ### Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,sass,php,laravel,py,selenium,nodejs,nextjs,express,electron,react,redux,vite,mysql,linux,postman,aws,gcp,atom,vscode,wordpress,ps,ai,pr,ae,figma,docker)](https://skillicons.dev)
 
 
 <!--
